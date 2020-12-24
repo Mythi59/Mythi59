@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [in process](in process)
 
-- 📝 I regularly write articles on [Flutter, React, Web Development and UI/UX](Flutter, React, Web Development and UI/UX)
+- 📝 I regularly write articles on [Flutter, React, Web Development and UI/UX]
 
 - 💬 Ask me about **Projects To Help You**
 
