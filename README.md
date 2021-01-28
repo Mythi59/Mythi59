@@ -1,4 +1,4 @@
-[![GitHub Banner Generator – Generate a GitHub banner for your repo!](banner.svg)]()
+[![GitHub Banner Generator – Generate a GitHub banner for your repo!](banner.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/react.svg)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm MerlonProgramming</h1>
 <h3 align="center">A Passionate Front-End Developer From Colombia</h3>
