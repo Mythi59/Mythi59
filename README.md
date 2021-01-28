@@ -45,13 +45,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://laravel.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+
+<!-- <a href="https://www.mongodb.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> -->
+
 <a href="https://www.mysql.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
+
+<!-- <a href="https://nodejs.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> -->
+
 <a href="https://www.php.net" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a>
+
+<!-- <a href="https://reactnative.dev/" target="_blank"> <img align="center" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a> -->
+
 <a href="https://developer.apple.com/swift/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
 
