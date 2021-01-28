@@ -23,8 +23,6 @@
 
 - ⚡ Fun fact **we developers make the big tasks we break into small pieces to make it better**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MerlonProgramming&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/merlonprogramming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/merlonprogramming" height="30" width="40" /></a>
@@ -56,3 +54,11 @@
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="60" height="60"/> </a> </p>
+
+[![GitHub-Banner-2](mobile.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlonProgramming&layout=compact)](https://github.com/MerlonProgramming/github-readme-stats)
+
+[![MerlonProgramming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MerlonProgramming)](https://github.com/MerlonPogramming/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MerlonPogramming&repo=github-readme-stats)](https://github.com/MerlonPogramming/github-readme-stats)
