@@ -1,7 +1,4 @@
-![Banner]("https://github.com/MerlonProgramming/MerlonProgramming/blob/main/undraw_react_y7wq.png")
-![Banner]("https://github.com/MerlonProgramming/MerlonProgramming/blob/main/undraw_mobile_prototyping_grmd.png")
-![Banner]("https://github.com/MerlonProgramming/MerlonProgramming/blob/main/undraw_flutter_dev_wvqj.png")
-![Banner]("https://github.com/MerlonProgramming/MerlonProgramming/blob/main/undraw_Mobile_application_mr4r.png")
+[![GitHub Banner Generator – Generate a GitHub banner for your repo!](banner.svg)]()
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm MerlonProgramming</h1>
 <h3 align="center">A Passionate Front-End Developer From Colombia</h3>
@@ -25,6 +22,8 @@
 - 📄 Know about my experiences [in process Portafolio](in process Portafolio)
 
 - ⚡ Fun fact **we developers make the big tasks we break into small pieces to make it better**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
