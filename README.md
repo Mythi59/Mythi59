@@ -1,9 +1,9 @@
 [![GitHub-Banner](react.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm MerlonProgramming</h1>
-<h3 align="center">A Passionate Front-End Developer From Colombia</h3>
+<h3 align="center">A Passionate Front-End Developer From Colombia 🤗👍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merlonprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="merlonprogramming" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=merlonprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="merlonprogramming" /> </p>
 
 - 🔭 I’m currently working on **Our Own Projects**
 
@@ -23,15 +23,19 @@
 
 - ⚡ Fun fact **we developers make the big tasks we break into small pieces to make it better**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/merlonprogramming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/merlonprogramming" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marlon-steven-desarrollador-web-mobil-developer-design/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marlon-steven-desarrollador-web-mobil-developer-design/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/marlon.s.diazlopez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/marlon.s.diazlopez/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/merlonprogramming/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/merlonprogramming/" height="30" width="40" /></a>
+<h3 align="center">Connect with me 🤗:</h3>
+<p align="center">
+<a href="https://codepen.io/https://codepen.io/merlonprogramming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/merlonprogramming" height="50" width="50" /></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marlon-steven-desarrollador-web-mobil-developer-design/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marlon-steven-desarrollador-web-mobil-developer-design/" height="50" width="50" /></a>
+
+<a href="https://fb.com/https://www.facebook.com/marlon.s.diazlopez/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/marlon.s.diazlopez/" height="50" width="50" /></a>
+
+<a href="https://instagram.com/https://www.instagram.com/merlonprogramming/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/merlonprogramming/" height="50" width="50" /></a>
+
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools 😊✌:</h3>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
@@ -62,3 +66,5 @@
 [![MerlonProgramming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MerlonProgramming)](https://github.com/MerlonPogramming/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MerlonPogramming&repo=github-readme-stats)](https://github.com/MerlonPogramming/github-readme-stats)
+
+[![GitHub-Banner-3](website.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
