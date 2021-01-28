@@ -29,7 +29,7 @@
 <a href="https://fb.com/https://www.facebook.com/marlon.s.diazlopez/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/marlon.s.diazlopez/" height="50" width="50" /></a>
 <a href="https://instagram.com/https://www.instagram.com/merlonprogramming/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/merlonprogramming/" height="50" width="50" /></a>
 
-</p>
+</p><br/>
 
 <h3 align="center">Languages and Tools 😊✌:</h3>
 
