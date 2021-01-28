@@ -30,7 +30,13 @@
 <a href="https://instagram.com/https://www.instagram.com/merlonprogramming/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/merlonprogramming/" height="50" width="50" /></a>
 </p><br/>
 
-<!-- <separation> -->
+[![GitHub-Banner-2](mobile.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlonProgramming&layout=compact)](https://github.com/MerlonProgramming/github-readme-stats)
+
+[![MerlonProgramming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MerlonProgramming)](https://github.com/MerlonPogramming/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MerlonPogramming&repo=github-readme-stats)](https://github.com/MerlonPogramming/github-readme-stats)
 
 <h3 align="center">Languages and Tools 😊✌:</h3>
 
@@ -49,13 +55,5 @@
 <a href="https://reactjs.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
-
-[![GitHub-Banner-2](mobile.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerlonProgramming&layout=compact)](https://github.com/MerlonProgramming/github-readme-stats)
-
-[![MerlonProgramming's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MerlonProgramming)](https://github.com/MerlonPogramming/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MerlonPogramming&repo=github-readme-stats)](https://github.com/MerlonPogramming/github-readme-stats)
 
 [![GitHub-Banner-3](website.svg)](https://github.com/MerlonProgramming/MerlonProgramming/blob/main/)
