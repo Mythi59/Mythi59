@@ -12,13 +12,13 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin%20Profile:-%20Marlon-blue?style=for-the-badge&logo=img/linkedin.svg)](https://www.linkedin.com/in/marlonsdiazlopez/)
 [![Github](https://img.shields.io/badge/Github%20Profile:-%20Marlon-orange?style=for-the-badge&logo=?)](https://github.com/Mythi59)
 
-<div style="position:relative; max-width:80vh">
+<div style="position:relative; max-width:60vh">
 <picture style="position:absolute; right:0; margin:-1rem;">
   <source srcset="https://github-readme-stats.vercel.app/api?username=mythi59&show_icons=true&theme=dracula" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=mythi59&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=mythi59&show_icons=true" />
 </picture>
-<img src="./img/code.svg" width="300" heigth="300" style="position:absolute; right:0; bottom:0; margin:-2rem;" alt="coding" />
+<img src="./img/code.svg" width="250" heigth="250" style="position:absolute; right:0; bottom:0; margin:-1rem;" alt="coding" />
 
 ```typescript
 interface Profile {
